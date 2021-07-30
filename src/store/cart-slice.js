@@ -53,8 +53,3 @@ const cartSlice = createSlice({
 
 export const cartAction = cartSlice.actions;
 export default cartSlice.reducer;
-git init
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/chiragaspire/chiragfoodapp.git
-git push -u origin main
